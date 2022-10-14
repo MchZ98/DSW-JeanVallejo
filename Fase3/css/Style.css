@@ -1,12 +1,12 @@
 .Titulo_del_sitio{
     background-color: black;
     color: white;
-    text-align: center;
     font-size: 50px;
+    text-align: center;
 }
 
 .info {
-    color: blue;
+    color: black;
 }
 .tamaño{
     text-align: center;
