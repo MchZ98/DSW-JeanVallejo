@@ -49,3 +49,27 @@
     padding: 10px;
     grid-column: 2/3;
 }
+.texto{
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    width: 900px;
+    display:block;
+    margin:auto;
+}
+.titulo{
+    text-align: center;
+}
+.img{
+    width: 800px;
+    display:block;
+    margin:auto;
+}
+.atras{
+    display:block;
+    margin:auto;
+    text-align: center;
+    font-size: 40px;
+
+}
