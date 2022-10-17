@@ -71,5 +71,18 @@
     margin:auto;
     text-align: center;
     font-size: 40px;
-
+}
+.texto8{
+background-color: white;
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    width: 900px;
+    display:block;
+    margin:auto;
+}
+.centro2{
+    text-align: center;
+    color: black;
+    font-size: 17px;
 }
