@@ -1,0 +1,108 @@
+.header{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.nav{
+    background-color:#16213E;
+    color: white;
+    padding: 30px;
+    text-align: justify;
+    font-size: 17px;
+    font-style: unset;
+    
+}
+.contenedor{
+    background-color: black;
+    padding: 3px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.principal{
+    background-color: rgb(66, 128, 171);
+    color: white;
+    font-size: 37px;
+    padding: 10px;
+    grid-column: 2/3;
+}
+.principal1{
+    background-color: rgb(66, 128, 171);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    grid-column: 2/3;
+}
+.lateral{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    grid-column: 1/2;
+}
+.pie{
+    padding: 3px;
+    text-align: center;
+}
+.lateral1{
+    align-self: center;
+    background-color: rgb(18, 119, 201);
+    padding: 30px;
+    grid-column: 1/2;
+}
+.centro{
+    text-align: center;
+    color: black;
+    font-size: 37px;
+    padding: 10px;
+    grid-column: 2/3;
+}
+.texto{
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    width: 900px;
+    display:block;
+    margin:auto;
+}
+.titulo{
+    text-align: center;
+}
+.img{
+    width: 800px;
+    display:block;
+    margin:auto;
+}
+.atras{
+    display:block;
+    margin:auto;
+    text-align: center;
+    font-size: 40px;
+}
+.texto8{
+background-color: white;
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    width: 900px;
+    display:block;
+    margin:auto;
+}
+.centro2{
+    text-align: center;
+    color: black;
+    font-size: 17px;
+}
+.audio{
+    width: 800px;
+    display:block;
+    margin:auto;
+}
+.center{
+    margin: 0 auto;
+    width: 40%;
+    display: block;
+   }
+.colorletras{
+    color: black;
+   }
